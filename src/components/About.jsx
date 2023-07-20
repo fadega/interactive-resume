@@ -49,13 +49,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I'm proficient in multiple programming languages such as PHP, JavaScript, Java, and Python, I gained extensive experience in backend and frontend technologies, including Laravel and React. I worked in projects where I significantly contributed  in  enhancing system efficiency, reducing API latency, and architecting custom software solutions using MVC framework. In addition to my technical proficiency, I have a strong background in education coordination, where I leveraged my tech knowledge for education/training. I am quick to learn, adapt, and strive for excellence.
       </motion.p>
-
+      
+      <motion.div variants={textVariant()}>
+        <h2 className="mt-20 text-4xl font-bold">Some of my roles ...</h2>
+      </motion.div>
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
           <ServiceCard key={service.title} index={index} {...service} />
