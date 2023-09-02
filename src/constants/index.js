@@ -199,7 +199,7 @@ import {
       testimonial:
         "They have a good knack for coding and are always ready to take on challenges. Their positive attitude and willingness to learn make them a great asset to our team. We're lucky to have them",
       name: "Felica Gu",
-      designation: "Lead Developer Programmer",
+      designation: "Lead Developer",
       company: "RM Plc",
       image: "https://randomuser.me/api/portraits/women/66.jpg",
     },
@@ -283,7 +283,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/fadega/salus-vita",
     },
   ];
   
