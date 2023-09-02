@@ -150,9 +150,9 @@ import {
       iconBg: "#383E56",
       date: "Jun 2018 - Sep 2018",
       points: [
-        "Conducted website audits and implemented optimizations, reducing website load times by up to 40% for dozens of websites",
+        "Developed custom themes and plugins using PHP, CSS, and JavaScript, resulting in highly tailored and unique websites that met specific client requirements",
         "Integrated third-party APIs and services, expanding website functionality and improving user engagement by 30%",
-        "Optimized website SEO, resulting in a 35% increase in search engine rankings and website traffic",
+        "Optimized website SEO by implementing best practices such as on-page optimization, keyword research, and content strategy, resulting in higher search engine rankings and 13% increase in website traffic",
 
       ],
     },
@@ -199,7 +199,7 @@ import {
       testimonial:
         "They have a good knack for coding and are always ready to take on challenges. Their positive attitude and willingness to learn make them a great asset to our team. We're lucky to have them",
       name: "Felica Gu",
-      designation: "Senior Analyst Programmer",
+      designation: "Lead Developer Programmer",
       company: "RM Plc",
       image: "https://randomuser.me/api/portraits/women/66.jpg",
     },
@@ -207,71 +207,79 @@ import {
       testimonial:
         "Working with them has been a pleasure. They consistently deliver high-quality work that addresses our product needs, and their dedication to the team and the product is truly appreciated.",
       name: "Redae Beraki",
-      designation: "Product Manager",
-      company: "RM Plc",
+      designation: "Senior Software Develper",
+      company: "PayCom",
       image: "https://randomuser.me/api/portraits/women/44.jpg",
     },
   ];
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Zacecom - Ecommerce",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web-based ecommerece platform that allows users to search, filter,and shop for merchendize. It provides convenient shopping experience with  seamless integration of Paypal's payment gateway API for secure and efficient checkout. The project was built using PHP in MVC - OOP pattern.",
+      tags: [
+        {
+          name: "mvc",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "PHP",
+          color: "green-text-gradient",
+        },
+        {
+          name: "OOP",
+          color: "pink-text-gradient",
+        },
+         {
+          name: "customFramework",
+          color: "blue-text-gradient",
+        },
+      ],
+      image: carrent,
+      source_code_link: "https://github.com/fadega/zacecom",
+    },
+    {
+      name: "Heart Beat Monitor",
+      description:
+        "A Java app that monitors heart beat rate and recommends heart beat check. Implemented in MVC architecture (but organized differently), it implements user and patienet management systems. It is fully built OOP pattern.",
+      tags: [
+        {
+          name: "java",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mvc",
+          color: "green-text-gradient",
+        },
+        {
+          name: "health",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: jobit,
+      source_code_link: "https://github.com/fadega/HeartRateMonitor",
+    },
+    {
+      name: "Salus Vita",
+      description:
+        "A comprehensive exercise web app built in react hooked into a rapidApi's exercise API. It provide a huge collection of exercises categorized in ten different types based in the body they target. Framer-motion and few other packages are used plus tailwind.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "rest-api",
           color: "green-text-gradient",
         },
         {
           name: "tailwind",
           color: "pink-text-gradient",
         },
-      ],
-      image: carrent,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Job IT",
-      description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-      tags: [
         {
-          name: "react",
+          name: "framermotion",
           color: "blue-text-gradient",
-        },
-        {
-          name: "restapi",
-          color: "green-text-gradient",
-        },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: jobit,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
         },
       ],
       image: tripguide,
