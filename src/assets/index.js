@@ -20,6 +20,13 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import php from "./tech/php.png";
+import laravel from "./tech/laravel.png";
+import postgresql from "./tech/postgresql.png";
+import django from "./tech/django.png";
+import aws from "./tech/aws.png";
+import spring from "./tech/spring.png";
+import java from "./tech/java.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -36,6 +43,7 @@ import tripguide from "./tripguide.png";
 import zacecom from "./zacecom.png";
 import heartbeat from "./heartbeat.png";
 import salusvita from "./salusvita.png";
+import nologo from "./nologo.png";
 
 export {
   logo,
@@ -72,4 +80,12 @@ export {
   rmplc,
   lethal,
   starss,
+  nologo,
+  php,
+  laravel,
+  postgresql,
+  django,
+  aws,
+  spring,
+  java,
 };
