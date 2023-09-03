@@ -41,16 +41,15 @@ const About = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <p className={styles.sectionSubText}>Professional</p>
-        <h2 className={styles.sectionHeadText}>Summary</h2>
+        <p className={styles.sectionSubText}>About</p>
+        <h2 className={styles.sectionHeadText}>Me.</h2>
       </motion.div>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am proficient in JavaScript (React), PHP (Laravel), Java, and MVC architecture. I have extensive experience in writing clean, reusable code, and developing optimized RESTful APIs. I have demonstrated expertise in rigorous testing, ensuring software quality, and alignment with user requirements. I possess strong problem-solving, communication, and collaboration skills.
-
+       I am a software engineer with a passion for creating efficient web applications and a keen focus on both back-end and front-end development. My journey is filled with experiences of transforming complex challenges into human-centered digital solutions. Currently, I am channeling my energy into building accessible and inclusive products.
       </motion.p>
       <motion.div variants={textVariant()}>
         <h2 className="mt-20 text-4xl font-bold">Some of my roles ...</h2>

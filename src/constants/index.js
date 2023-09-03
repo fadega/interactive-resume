@@ -4,11 +4,8 @@ import {
     creator,
     web,
     javascript,
-    typescript,
-    html,
-    css,
     reactjs,
-    redux,
+  
     tailwind,
     nodejs,
     mongodb,
@@ -19,12 +16,17 @@ import {
     heartbeat,
     salusvita,
     threejs,
-    // carrent,
-    // jobit,
-    // tripguide,
     rmplc,
     lethal,
     starss,
+    nologo,
+    php,
+    laravel,
+    postgresql,
+    django,
+    aws,
+    spring,
+    java,
   } from "../assets";
   
   export const navLinks = [
@@ -64,29 +66,25 @@ import {
   
   const technologies = [
     {
-      name: "HTML 5",
-      icon: html,
+      name: "Laravel",
+      icon: laravel,
     },
     {
-      name: "CSS 3",
-      icon: css,
+      name: "Java",
+      icon: java,
     },
     {
       name: "JavaScript",
       icon: javascript,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
-    },
-    {
       name: "React JS",
       icon: reactjs,
     },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
+    // {
+    //   name: "Redux Toolkit",
+    //   icon: redux,
+    // },
     {
       name: "Tailwind CSS",
       icon: tailwind,
@@ -100,16 +98,24 @@ import {
       icon: mongodb,
     },
     {
-      name: "Three JS",
-      icon: threejs,
+      name: "PostgreSQL",
+      icon: postgresql,
+    },
+    {
+      name: "PHP",
+      icon: php,
     },
     {
       name: "git",
       icon: git,
     },
     {
-      name: "figma",
-      icon: figma,
+      name: "spring",
+      icon: spring,
+    },
+    {
+      name: "Django",
+      icon: django,
     },
     {
       name: "docker",
@@ -136,7 +142,7 @@ import {
     {
       title: "Full Stack Developer",
       company_name: "Hdmona",
-      icon: "",
+      icon: nologo,
       iconBg: "#E6DEDD",
       date: "May 2020 - Nov 2021",
       points: [
@@ -176,7 +182,7 @@ import {
     {
       title: "Software Developer",
       company_name: "EISA",
-      icon: "",
+      icon: nologo,
       iconBg: "#E6DEDD",
       date: "Sept 2010 - Jun 2013",
       points: [
@@ -200,7 +206,7 @@ import {
     },
     {
       testimonial:
-        "They have a good knack for coding and are always ready to take on challenges. Their positive attitude and willingness to learn make them a great asset to our team. We're lucky to have them",
+        "Fadega has a good knack for coding and are always ready to take on challenges. His positive attitude and willingness to learn make them a great asset to our team. We were lucky to have had worked with him",
       name: "Felica Gu",
       designation: "Lead Developer",
       company: "RM Plc",
@@ -208,7 +214,7 @@ import {
     },
     {
       testimonial:
-        "Working with them has been a pleasure. They consistently deliver high-quality work that addresses our product needs, and their dedication to the team and the product is truly appreciated.",
+        "Working with him has been a pleasure. He consistently deliver high-quality work that addresses our product needs, and his dedication to the team and the product is truly appreciated.",
       name: "Redae Beraki",
       designation: "Senior Software Develper",
       company: "PayCom",
