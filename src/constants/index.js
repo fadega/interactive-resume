@@ -15,10 +15,13 @@ import {
     git,
     figma,
     docker,
-    carrent,
-    jobit,
-    tripguide,
+    zacecom,
+    heartbeat,
+    salusvita,
     threejs,
+    // carrent,
+    // jobit,
+    // tripguide,
     rmplc,
     lethal,
     starss,
@@ -31,7 +34,7 @@ import {
     },
     {
       id: "work",
-      title: "Work",
+      title: "Experience",
     },
     {
       id: "contact",
@@ -236,13 +239,13 @@ import {
           color: "blue-text-gradient",
         },
       ],
-      image: carrent,
+      image: zacecom,
       source_code_link: "https://github.com/fadega/zacecom",
     },
     {
       name: "Heart Beat Monitor",
       description:
-        "A Java app that monitors heart beat rate and recommends heart beat check. Implemented in MVC architecture (but organized differently), it implements user and patienet management systems. It is fully built OOP pattern.",
+        "A Java app that monitors heart beat rate and recommends heart beat checks. Implemented in MVC architecture (but organized differently), it implements user and patienet management systems including role based authentication feature. It is fully built OOP pattern.",
       tags: [
         {
           name: "java",
@@ -257,7 +260,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: heartbeat,
       source_code_link: "https://github.com/fadega/HeartRateMonitor",
     },
     {
@@ -282,7 +285,7 @@ import {
           color: "blue-text-gradient",
         },
       ],
-      image: tripguide,
+      image: salusvita,
       source_code_link: "https://github.com/fadega/salus-vita",
     },
   ];

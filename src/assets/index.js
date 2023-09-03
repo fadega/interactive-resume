@@ -33,6 +33,10 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import zacecom from "./zacecom.png";
+import heartbeat from "./heartbeat.png";
+import salusvita from "./salusvita.png";
+
 export {
   logo,
   backend,
@@ -62,6 +66,9 @@ export {
   carrent,
   jobit,
   tripguide,
+  heartbeat,
+  zacecom,
+  salusvita,
   rmplc,
   lethal,
   starss,

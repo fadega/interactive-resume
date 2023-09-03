@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Open+Sans:wght@400;600&family=Playfair+Display+SC&family=Playfair+Display:wght@400;600&family=Poppins&family=Roboto:wght@100;300;400;500&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -8,7 +8,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: "inter", sans-serif;
   scroll-behavior: smooth;
   color-scheme: dark;
 }
@@ -24,21 +25,33 @@
   background: -webkit-linear-gradient(
     to right,
     #434343,
-    #000000
+    /* #000000 */
+    #0a192f
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
     to right,
     #434343,
-    #000000
+    /* #000000 */
+    #0a192f
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-.violet-gradient {
+/* .violet-gradient {
   background: #804dee;
   background: linear-gradient(-90deg, #804dee 0%, rgba(60, 51, 80, 0) 100%);
   background: -webkit-linear-gradient(
     -90deg,
     #804dee 0%,
+    rgba(60, 51, 80, 0) 100%
+  );
+} */
+
+.violet-gradient {
+  background: #64fed9;
+  background: linear-gradient(-90deg, #64fed9 0%, rgba(60, 51, 80, 0) 100%);
+  background: -webkit-linear-gradient(
+    -90deg,
+    #64fed9 0%,
     rgba(60, 51, 80, 0) 100%
   );
 }
