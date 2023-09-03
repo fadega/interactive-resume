@@ -226,7 +226,7 @@ import {
     {
       name: "Zacecom - Ecommerce",
       description:
-        "Web-based ecommerece platform that allows users to search, filter,and shop for merchendize. It provides convenient shopping experience with  seamless integration of Paypal's payment gateway API for secure and efficient checkout. The project was built using PHP in MVC - OOP pattern.",
+        "Web-based ecommerece platform that allows users to search, filter,and shop for merchendize. It provides convenient shopping experience with  seamless integration with Paypal's payment gateway API for secure and efficient checkout. The project was built using PHP in MVC - OOP pattern.",
       tags: [
         {
           name: "mvc",
@@ -251,7 +251,7 @@ import {
     {
       name: "Heart Beat Monitor",
       description:
-        "A Java app that monitors heart beat rate and recommends heart beat checks. Implemented in MVC architecture (but organized differently), it implements user and patienet management systems including role based authentication feature. It is fully built OOP pattern.",
+        "A Java app that monitors heart beat rate and recommends heart beat checks. Implemented in MVC architecture (but organized differently), it implements user and patienet management systems including role based authentication feature. It is fully built in OOP pattern.",
       tags: [
         {
           name: "java",
@@ -272,7 +272,7 @@ import {
     {
       name: "Salus Vita",
       description:
-        "A comprehensive exercise web app built in react hooked into a rapidApi's exercise API. It provide a huge collection of exercises categorized in ten different types based in the body they target. Framer-motion and few other packages are used plus tailwind.",
+        "A comprehensive exercise web app built in react hooked into rapidApi's exercise API. It provide a huge collection of exercises categorized in ten different types based in the body they target. Framer-motion and few other packages are used plus tailwind.",
       tags: [
         {
           name: "react",
