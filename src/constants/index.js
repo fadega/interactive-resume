@@ -81,6 +81,14 @@ import {
       name: "React JS",
       icon: reactjs,
     },
+    {
+      name: "AWS",
+      icon: aws,
+    },
+    {
+      name: "Gitlab CI/CD",
+      icon: "",
+    },
     // {
     //   name: "Redux Toolkit",
     //   icon: redux,
