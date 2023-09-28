@@ -133,6 +133,17 @@ import {
   
   const experiences = [
     {
+      title: "Software Developer",
+      company_name: "Cardwatch POS",
+      icon: nologo,
+      iconBg: "#E6DEDD",
+      date: "Oct 2023 - Present",
+      points: [
+        "....",
+        
+      ],
+    },
+    {
       title: "Software Engineer",
       company_name: "RM Plc",
       icon: rmplc,
