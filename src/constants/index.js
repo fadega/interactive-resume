@@ -139,7 +139,9 @@ import {
       iconBg: "#E6DEDD",
       date: "Oct 2023 - Present",
       points: [
-        "....",
+        "Just joined ....",
+        "... specific responsibilities will be added ..",
+        
         
       ],
     },
@@ -148,7 +150,7 @@ import {
       company_name: "RM Plc",
       icon: rmplc,
       iconBg: "#383E56",
-      date: "Nov 2021 - Feb 2023",
+      date: "Nov 2021 - March 2023",
       points: [
         "Developed automatic machine scoring module with data exporting and reporting features which increased marking accuracy by 15%",
         "Optimized API performance, reducing latency to less than a second, enhancing user experience for tens of thousands of users",
