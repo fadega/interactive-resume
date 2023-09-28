@@ -49,7 +49,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-       I am a software engineer with a passion for creating efficient web applications and a keen focus on both back-end and front-end development. My journey is filled with experiences of transforming complex challenges into human-centered digital solutions. Currently, I am channeling my energy into building accessible and inclusive products.
+      I'm a Software Engineer with both front and backend development, passionate about crafting scalable and efficient web solutions. My journey includes converting intricate challenges into user-centric digital experiences. Currently, I’m laser-focused on optimizing backend architectures and building robust, inclusive tech.
       </motion.p>
       <motion.div variants={textVariant()}>
         <h2 className="mt-20 text-4xl font-bold">Some of my roles ...</h2>
