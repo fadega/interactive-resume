@@ -141,7 +141,8 @@ import {
       date: "Oct 2023 - Present",
       points: [
         "Just joined ....",
-        "... specific responsibilities will be added ..",
+        "Will work on POS software .... excited",
+        "Will add specific responsibilities and achievements ..."
         
         
       ],
