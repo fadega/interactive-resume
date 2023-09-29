@@ -44,6 +44,7 @@ import zacecom from "./zacecom.png";
 import heartbeat from "./heartbeat.png";
 import salusvita from "./salusvita.png";
 import nologo from "./nologo.png";
+import cardwatch from "./cardwatch.png";
 
 export {
   logo,
@@ -80,6 +81,7 @@ export {
   rmplc,
   lethal,
   starss,
+  cardwatch,
   nologo,
   php,
   laravel,

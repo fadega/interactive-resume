@@ -20,6 +20,7 @@ import {
     lethal,
     starss,
     nologo,
+    cardwatch,
     php,
     laravel,
     postgresql,
@@ -135,7 +136,7 @@ import {
     {
       title: "Software Developer",
       company_name: "Cardwatch POS",
-      icon: nologo,
+      icon: cardwatch,
       iconBg: "#E6DEDD",
       date: "Oct 2023 - Present",
       points: [
