@@ -5,7 +5,6 @@ import {
     web,
     javascript,
     reactjs,
-  
     tailwind,
     nodejs,
     mongodb,
@@ -142,7 +141,7 @@ import {
       points: [
         "Just joined ....",
         "Will work on POS software .... excited",
-        "Will add specific responsibilities and achievements ..."
+        "details coming ..."
         
         
       ],
