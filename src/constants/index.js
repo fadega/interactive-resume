@@ -139,9 +139,9 @@ import {
       iconBg: "#E6DEDD",
       date: "Oct 2023 - Present",
       points: [
-        "Just joined ....",
-        "Will work on POS software .... excited",
-        "details coming ..."
+        "Designing and implementing a scalable POS architecture, currently supporting a growth in transaction volume and enhancing system stability",
+        "Actively integrating the POS system with external inventory and accounting platforms, streamlining sales processes and minimizing financial discrepancies",
+        "Optimizing database queries and implementing caching strategies, enhancing transaction speeds and ensuring consistent system uptime",
         
         
       ],
