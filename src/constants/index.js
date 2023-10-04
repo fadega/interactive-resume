@@ -142,7 +142,7 @@ import {
         "Designing and implementing a scalable POS architecture, currently supporting a growth in transaction volume and enhancing system stability",
         "Actively integrating the POS system with external inventory and accounting platforms, streamlining sales processes and minimizing financial discrepancies",
         "Optimizing database queries and implementing caching strategies, enhancing transaction speeds and ensuring consistent system uptime",
-        
+        "Collaborating closely with cross-functional teams on feature development and mentoring junior developers, resulting in increased team productivity and cohesion"
         
       ],
     },
