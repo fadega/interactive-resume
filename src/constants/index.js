@@ -140,9 +140,9 @@ import {
       date: "Oct 2023 - Present",
       points: [
         "Spearheading the design and execution of a robust POS architecture, bolstering transaction volume growth and fortifying system reliability",
-"Leading the seamless integration of the POS system with external inventory and accounting solutions, refining sales workflows and markedly reducing financial inconsistencies",
-"Refining database queries and championing advanced caching solutions, boosting transaction efficiency and maintaining impeccable system availability",
-"Fostering tight-knit collaborations with diverse teams for feature rollouts and guiding junior developers, driving notable enhancements in team output and synergy",
+        "Leading the seamless integration of the POS system with external inventory and accounting solutions, refining sales workflows and markedly reducing financial inconsistencies",
+        "Refining database queries and championing advanced caching solutions, boosting transaction efficiency and maintaining impeccable system availability",
+        "Fostering tight-knit collaborations with diverse teams for feature rollouts and guiding junior developers, driving notable enhancements in team output and synergy",
       ],
     },
     {
