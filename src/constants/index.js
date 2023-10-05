@@ -139,11 +139,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Oct 2023 - Present",
       points: [
-        "Designing and implementing a scalable POS architecture, currently supporting a growth in transaction volume and enhancing system stability",
-        "Actively integrating the POS system with external inventory and accounting platforms, streamlining sales processes and minimizing financial discrepancies",
-        "Optimizing database queries and implementing caching strategies, enhancing transaction speeds and ensuring consistent system uptime",
-        "Collaborating closely with cross-functional teams on feature development and mentoring junior developers, resulting in increased team productivity and cohesion"
-        
+        "Spearheading the design and execution of a robust POS architecture, bolstering transaction volume growth and fortifying system reliability",
+"Leading the seamless integration of the POS system with external inventory and accounting solutions, refining sales workflows and markedly reducing financial inconsistencies",
+"Refining database queries and championing advanced caching solutions, boosting transaction efficiency and maintaining impeccable system availability",
+"Fostering tight-knit collaborations with diverse teams for feature rollouts and guiding junior developers, driving notable enhancements in team output and synergy",
       ],
     },
     {
