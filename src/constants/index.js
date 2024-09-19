@@ -73,6 +73,10 @@ const technologies = [
     icon: java,
   },
   {
+    name: "Spring Boot",
+    icon: spring,
+  },
+  {
     name: "JavaScript",
     icon: javascript,
   },
@@ -138,10 +142,12 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Oct 2023 - Present",
     points: [
-      "Architecting and developing a microservice-based POS system using Java/Spring Boot for scalable backend services",
-      "Leading the seamless integration of the POS system with external inventory and accounting solutions, refining sales workflows and markedly reducing financial inconsistencies",
-      "Refining database queries and championing advanced caching solutions, boosting transaction efficiency and maintaining high system availability",
-      "Integrating Kafka for reliable, asynchronous microservice communication and ensuring robust unit testing and continuous integration",
+      "Architected a microservice-based POS system using Java/Spring Boot for scalable backend services",
+      "Developed a tool to optimize database queries, improving system speed and performance by 30%.",
+      "Integrated Kafka for reliable, asynchronous microservice communication",
+      "Ensured robust unit testing and continuous integration using JUnit and Docker",
+      "Conducted code reviews and mentored junior developers, fostering a culture of clean code and best practices",
+      "Implementing responsive and user-friendly frontend components with React",
     ],
   },
   {
@@ -151,11 +157,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "Nov 2021 - March 2023",
     points: [
-      "Developed automatic machine scoring module with data exporting and reporting features which increased marking accuracy by 15%",
-      "Optimized API performance, reducing latency to less than a second, enhancing user experience for tens of thousands of users",
-      "Revamped legacy code for custom context functionality, ensuring system consistency and efficiency across all modules",
-      "Created highly interactive e-assessment content used in numerous schools across multiple countries, and over 40 languages",
-      "Participated in code reviews and provided constructive feedback to other developers",
+      "Engineered an automated machine scoring system with advanced data exporting and reporting capabilities, resulting in a 15% improvement in grading accuracy",
+      "Designed engaging and interactive e-assessment content for over one hundred schools, supporting more than forty languages",
+      "Optimized API performance by reducing latency from 6.8 seconds to 3 seconds, enhancing user experience",
+      "Revamped legacy code for custom context functionality across all modules, ensuring greater consistency and reliability",
     ],
   },
   {
@@ -165,10 +170,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2020 - Nov 2021",
     points: [
-      "Built a custom MVC framework using the OOP development approach, reducing software defects by 30%",
-      "Architected and deployed robust RESTful APIs with Node.js and PostgreSQL, improving system performance ",
-      "Streamlined database efficiency by implementing an enhanced schema and optimizing SQL queries, reducing query execution times by 35%",
-      "Increased company revenue by 15% through the integration of PayPal's Payment gateway API",
+      "Created a custom MVC framework utilizing OOP for a content management system, increasing modularity, and reducing software defects",
+      "Architected and deployed robust RESTful APIs with Node.js and PostgreSQL, facilitating seamless data exchange",
+      "Streamlined database efficiency by enhancing schema and optimizing SQL queries, leading to faster query execution times",
+      "Increased revenue by 11% through the integration of PayPal's Payment Gateway API, offering customers a secure payment experience",
     ],
   },
   {
@@ -178,9 +183,11 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jun 2018 - Sep 2018",
     points: [
-      "Developed custom themes and plugins using PHP, CSS, and JavaScript, resulting in highly tailored and unique websites that met specific client requirements",
-      "Integrated third-party APIs and services, expanding website functionality and improving user engagement by 30%",
-      "Optimized website SEO by implementing best practices such as on-page optimization, keyword research, and content strategy, resulting in higher search engine rankings and 13% increase in website traffic",
+      "Developed custom themes and plugins using PHP, CSS, and JavaScript, meeting specific client requirements",
+      "Conducted website audits and implemented optimizations, reducing load times by up to 30%",
+      "Integrated third-party APIs (Google Maps, Facebook, Twitter) to enhance website functionality",
+      "Deployed e-commerce websites using payment gateways like PayPal, Stripe, and WooCommerce, increasing online sales",
+      "Optimized SEO through on-page optimization, keyword research, and content strategy, resulting in higher search rankings",
     ],
   },
   {
@@ -190,10 +197,11 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Nov 2014 - Feb 2018",
     points: [
-      "Managed school terms and activities for a student body of 200+ students",
+      "Established partnerships with NGOs and local schools to increase resources and opportunities",
       "Designed an interactive database to maintain and update accurate school records",
-      "Supervised a team of 16 teachers and support staff, ensuring the smooth running of the school",
-      "Designed and delivered comprehensive Math lessons( algebra, geometry, and introductory calculus)",
+      "Developed and delivered lesson plans on ICT topics (MS Office Suite, computer security).",
+      "Taught comprehensive Math lessons (algebra, geometry, introductory calculus).",
+      "Delivered engaging Physics and Chemistry lessons to students in years 10–12",
     ],
   },
 
@@ -204,10 +212,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Sept 2010 - Jun 2013",
     points: [
-      "Built a television program scheduler with C# in .NET, eliminating manual input by 95%, saving hundreds of hours of manual work",
+      "Implemented an education management information system, achieving 95% accuracy in student data reporting",
+      "Built a television program scheduler with C# in .NET, eliminating manual input by 89%",
       "Designed a TV game for a special national event, entertaining tens of thousands of viewers",
-      "Collaborated with teams to implement an education management information system, achieving higher accuracy in student data reporting across multiple educational branches",
-      "Developed products from identifying system requirements to implementation, testing, and delivery, improving system efficiency by 30%",
+      "Developed products from identifying system requirements to implementation, testing, and delivery",
     ],
   },
 ];
